@@ -2,6 +2,8 @@
 
 ### ☕ Responsive Coffee Website
 
+- If you want to see the result: https://rohuldson.github.io/coffeeStore-website/
+
 - Responsive Coffee Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
